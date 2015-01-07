@@ -12,7 +12,14 @@ platform).
 
 ## Supported browsers
 
-* Chrome
+* Chrome, published at https://chrome.google.com/webstore/detail/cookie-jar/iikhngeniebocgncjooahpaojhnonkfb
+* Opera
+
+## In progress
+
+* Publish the Opera add-on
+* Create a pop-up to allow disabling the extension on a per-tab basis
+* Port to Firefox
 
 ## License
 
