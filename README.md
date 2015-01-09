@@ -12,8 +12,10 @@ platform).
 
 ## Supported browsers
 
-* Chrome, published at https://chrome.google.com/webstore/detail/cookie-jar/iikhngeniebocgncjooahpaojhnonkfb
+* Chrome
+ * https://chrome.google.com/webstore/detail/cookie-jar/iikhngeniebocgncjooahpaojhnonkfb
 * Opera
+ * Review in progress
 
 ## In progress
 
