@@ -15,11 +15,10 @@ platform).
 * Chrome
  * https://chrome.google.com/webstore/detail/cookie-jar/iikhngeniebocgncjooahpaojhnonkfb
 * Opera
- * Review in progress
+ * https://addons.opera.com/en/extensions/details/cookie-jar
 
 ## In progress
 
-* Publish the Opera add-on
 * Create a pop-up to allow disabling the extension on a per-tab basis
 * Port to Firefox
 
